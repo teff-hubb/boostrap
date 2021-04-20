@@ -1,0 +1,37 @@
+
+.bgRed{
+    background-color: red;
+    height: 150px;
+}
+.bgBlue{
+    background: blue;
+    height: 150px;
+}
+.bgRed1{
+    height: 50px;
+    background-color: red;
+}
+.bgBlue1{
+    height: 50px;
+    background-color: blue;
+    
+}
+.bgTrans{
+    height: 100px;
+    
+   border: 1px solid blue;
+  
+}
+.bgTrans1{
+    height: 100px;
+   border:1px solid yellow;
+  
+}
+.bgTrans2{
+    height: 100px;
+   border: 1px dashed red;
+}
+.bgTrans3{
+    height: 100px;
+   border: 1px solid white;
+}
