@@ -1,0 +1,111 @@
+.pTopButton {
+  margin: 40px 0;
+}
+
+nav {
+  background-color: #082b49;
+}
+nav .linksNav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  list-style: none;
+  padding: 15px 0;
+}
+nav .linksNav li {
+  padding: 0 35px;
+}
+nav .linksNav li a {
+  color: white;
+}
+
+.bg-banner {
+  height: 100vh;
+  background-image: url("../images/banner_bg.png");
+  background-size: cover;
+  background-position: top;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+.bg-banner .textBanner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  align-items: unset;
+  padding-left: 10%;
+}
+.bg-banner .textBanner p {
+  color: #ff9aaa;
+}
+.bg-banner .textBanner h1 {
+  color: #082b49;
+  font-weight: 300;
+  font-size: 60px;
+  word-spacing: 40px;
+}
+
+.imageDog {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+  width: 50%;
+}
+
+.fCenter {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50%;
+}
+
+.bgService {
+  background-image: url("../images/services_bg.png");
+  height: 100vh;
+}
+.bgService .col-12 {
+  text-align: center;
+  padding: 110px 0;
+}
+.bgService .card {
+  background-color: transparent;
+  border: 0;
+}
+.bgService .card img {
+  width: 60%;
+}
+.bgService .card h5 {
+  text-align: center;
+}
+.bgService .card p {
+  font-size: 0.8rem;
+  color: #000000ad;
+}
+
+.coliefAdopt {
+  padding-left: 25%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.coliefAdopt h2 {
+  font-weight: 400;
+  word-spacing: 15px;
+  margin-bottom: 4rem;
+}
+.coliefAdopt p {
+  font-size: 18px;
+}
+.coliefAdopt .containerAdopt {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.coliefAdopt button {
+  border-radius: 20px;
+  background-color: #53c9bb;
+  border-color: #53c9bb;
+  width: 50%;
+}
