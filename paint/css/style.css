@@ -1,0 +1,30 @@
+.bgNavDotetrope {
+  display: flex !important;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column !important;
+}
+
+.navbar-brand {
+  font-weight: bold;
+}
+
+.redBox {
+  background-color: red;
+  color: white !important;
+}
+
+.bgImage {
+  background-image: url(../imagesPaint/pic01.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 62vh;
+}
+.bgImage h1 {
+  font-size: 1rem;
+  color: white;
+}

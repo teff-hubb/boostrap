@@ -1,0 +1,28 @@
+body {
+  color: white;
+}
+
+hr {
+  border: 1px solid white;
+}
+
+.pad7 {
+  padding: 10% 5%;
+}
+
+.bgBlue {
+  background-color: blue;
+  padding: 10% 5%;
+}
+
+.bgAliquam {
+  background-color: turquoise;
+}
+
+.bgTempur {
+  background-color: violet;
+}
+
+.bgMagna {
+  background-color: tomato;
+}
